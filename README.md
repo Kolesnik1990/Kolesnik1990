@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Dmitry</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Senior Specialist of the Testing Department</h3>
+<h3 align="center">QA Engineer Middle Manual/Auto</h3>
 
 <!---Пример кода-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Верь+в+себя.Никогда+не+сдавайся)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Верь+в+себя.+Никогда+не+сдавайся)](https://git.io/typing-svg)
 
 ---
 
