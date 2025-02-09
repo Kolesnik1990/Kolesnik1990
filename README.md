@@ -12,15 +12,15 @@
 - 🔭 I am currently working in QA Web, Automation, Back
 - 🌱 I'm taking a Python course
 - 💼 I have experience in Python, Selenium and Pytest
-- 📫 How to reach me: koliesnik-1990@mail.ru
-- 📕 My resume is on [**hh.ru**](https://krasnodar.hh.ru/resume/3fb2083fff0e281de60039ed1f485052645166)
+- 📫 Mail: koliesnik-1990@mail.ru
+- 📕 Resume: [**hh.ru**](https://krasnodar.hh.ru/resume/3fb2083fff0e281de60039ed1f485052645166)
 - 📱 Telegram: [@koliesnik_dmitry](https://t.me/koliesnik_dmitry)
   
 ---
 
 ## 🛠️ Technologies & Tools
-- Languages: Python
-- Databases: My SQL server
+- Language: Python
+- Database: My SQL server
 - Sniffers: Charles, Fiddler Classic
 - ОС: Windows, Linux
 - Testing: Postman, DevTools, Jmeter, Souap UI
@@ -35,8 +35,8 @@ widht="40" />
 ---
 
 ## 🌟 Projects
-- Development SUMA 
-- Mobile news and Cinema app
+- Development portal SUMA 
+- Mobile application news and сinema app
 - Website Automation in Python
 
 ## 💬 Let's Connect!
