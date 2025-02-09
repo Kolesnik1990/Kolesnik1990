@@ -39,12 +39,8 @@ widht="40" />
 - Mobile news and Cinema app
 - Website Automation in Python
 
+## 💬 Let's Connect!
+Feel free to reach out to me on: [**LinkedIn**](https://ru.linkedin.com/in/dmitry-koliesnik-2b954b274)
 
-
-
-
-> *Isaac Asimov*
-
-> ““I firmly believe that self—education is the only kind of education.””
 
   
